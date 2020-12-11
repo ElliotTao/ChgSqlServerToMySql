@@ -1,0 +1,9 @@
+E:\1\ChgSqlServerToMySql\bin\Debug\ChgSqlServerToMySql.exe.config
+E:\1\ChgSqlServerToMySql\bin\Debug\ChgSqlServerToMySql.exe
+E:\1\ChgSqlServerToMySql\bin\Debug\ChgSqlServerToMySql.pdb
+E:\1\ChgSqlServerToMySql\obj\Debug\ChgSqlServerToMySql.Form1.resources
+E:\1\ChgSqlServerToMySql\obj\Debug\ChgSqlServerToMySql.Properties.Resources.resources
+E:\1\ChgSqlServerToMySql\obj\Debug\ChgSqlServerToMySql.csproj.GenerateResource.cache
+E:\1\ChgSqlServerToMySql\obj\Debug\ChgSqlServerToMySql.csproj.CoreCompileInputs.cache
+E:\1\ChgSqlServerToMySql\obj\Debug\ChgSqlServerToMySql.exe
+E:\1\ChgSqlServerToMySql\obj\Debug\ChgSqlServerToMySql.pdb
